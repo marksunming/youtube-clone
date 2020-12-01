@@ -27,6 +27,7 @@
     background-color: #fafafa;
     border-left: 1px solid lightgray;
     color: gray;
+    cursor: pointer;
 }
 
 .header__icons {
@@ -37,6 +38,7 @@
 .header__input > input {
     flex: 1;
     border: none;
+    outline-width: 0;
 }
 
 .header__icon {
